@@ -227,6 +227,12 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll
+  - mini_racer
+  - unicode_utils
+  - webrick
+  - htmlcompressor
+  - htmlbeautifier
 
 # Sitemap settings
 defaults:

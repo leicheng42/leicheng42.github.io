@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem 'faraday-retry'
 end
 group :other_plugins do
     gem 'feedjira'
