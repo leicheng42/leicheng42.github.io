@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - leicheng42
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - leicheng42/jc-python-guide
+  - leicheng42/wine_quality
